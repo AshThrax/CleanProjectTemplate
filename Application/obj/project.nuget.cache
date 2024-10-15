@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1itej3qWUjw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\quentin\\classicweb\\CleanArchitecture\\WebApi\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\quentin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
